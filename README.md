@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RobertShamburger
 - 👀 I’m interested in Python Development and Machine Learning
-- 🌱 I’m currently learning SAPUI5
+- 🌱 I’m currently learning SAPUI5, JavaScript, CSS, HTML, XML
 - 💞️ I’m looking to collaborate on deez nutz
 - 📫 How to reach me, you can't!!
 
